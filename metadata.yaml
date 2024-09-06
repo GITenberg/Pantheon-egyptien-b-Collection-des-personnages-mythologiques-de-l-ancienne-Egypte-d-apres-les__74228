@@ -1,0 +1,57 @@
+_repo: Pantheon-egyptien-b-Collection-des-personnages-mythologiques-de-l-ancienne-Egypte-d-apres-les__74228
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dubois, Léon Jean Joseph
+    aliases:
+    - Dubois, Léon-Jean-Joseph
+    - Dubois, Leon Jean Joseph
+    - Dubois, L. J. J. (Léon Jean Joseph)
+    birthdate: 1780
+    deathdate: 1846
+    gutenberg_agent_id: '57402'
+    url: http://www.gutenberg.org/2009/agents/57402
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L%C3%A9on-Jean-Joseph_Dubois
+    - https://fr.wikipedia.org/wiki/L%C3%A9on_Jean_Joseph_Dubois
+creator:
+  author:
+    agent_name: Champollion, Jean-François
+    aliases:
+    - Champollion, Jean-Francois
+    - Champollion, le jeune
+    - Champollion, J.-F. (Jean-François)
+    - Champollion, Jean François
+    - Champollion, J. F.
+    birthdate: 1790
+    deathdate: 1832
+    gutenberg_agent_id: '3669'
+    url: http://www.gutenberg.org/2009/agents/3669
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion
+    - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion
+description: ''
+gutenberg_issued: '2024-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74228'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k15192946/f7.double
+pgterms:marc905: 20221003050037champollio
+pgterms:marc906: '1825'
+pgterms:marc907: FR
+production_note: Stephen Rowland, Claudine Corbasson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bFirmin Fidot, $c1825.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Egyptian'
+- !lcsh 'Gods, Egyptian'
+- !lcc 'BL'
+- GITenberg
+title: 'Panthéon égyptien : $b Collection des personnages mythologiques de l''ancienne
+  Égypte, d''après les monuments'
+url: http://www.gutenberg.org/ebooks/74228
