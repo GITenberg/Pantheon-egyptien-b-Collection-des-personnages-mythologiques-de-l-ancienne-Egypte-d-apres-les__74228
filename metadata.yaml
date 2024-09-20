@@ -14,6 +14,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/L%C3%A9on-Jean-Joseph_Dubois
     - https://fr.wikipedia.org/wiki/L%C3%A9on_Jean_Joseph_Dubois
+covers:
+- cover_type: archival
+  image_path: 74228-h/images/cover.jpg
 creator:
   author:
     agent_name: Champollion, Jean-François
@@ -31,6 +34,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion
     - https://fr.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Champollion
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74228#Pantheon-egyptien-b-Collection-des-personnages-mythologiques-de-l-ancienne-Egypte-d-apres-les_
 gutenberg_issued: '2024-08-11'
 gutenberg_type: Text
 identifiers:
